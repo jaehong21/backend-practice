@@ -1,3 +1,5 @@
-# django_catchup
+# Backend_catchup
 
-This repository is for catch up dJango by clone coding "dJangoProject official documents"
+This repository is to get used to Backend Frameworks <br />
+Other branches represents different Framework <br/>
+
