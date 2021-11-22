@@ -18,7 +18,7 @@ public class MemberService {
         this.memberRepository = memberRepository;
     }
 
-    // Sign In
+     // Sign In
     public Long join(Member member) {
         // 같은 이름 중복 방지
         validateDuplicatedMember(member);
