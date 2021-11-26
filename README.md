@@ -6,4 +6,7 @@ Other branches represents different Framework <br/>
 <li> dJango </li>
 <br />
 dJango: practiced DRF(django RestFramework) and ORM <br />
-Spring: 
+Spring: <br />
+&nbsp Dependecy Injection without Spring <br />
+&nbsp getBean using @Config <br />
+&nbsp using JPA <br />
