@@ -27,6 +27,12 @@ public class OrderItem {
     private int orderPrice; // 주문 수량
     private int count; // 주문 수량
 
+    // 밑에 생성로직 이외에 다른 것은 하지 못하게
+    // 아니면 lombok 에서 지원하는
+    // @NoArgsConstructor(access = AccessLevel.PROTECTED) class 위에 붙이기
+    protected OrderItem() {
+    }
+
     // 생성 로직
     public static OrderItem createOrderItem(Item item, int orderPrice, int count) {
         OrderItem orderItem = new OrderItem();
