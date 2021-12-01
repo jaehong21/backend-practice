@@ -9,5 +9,5 @@ dJango: practiced DRF(django RestFramework) and ORM <br />
 Spring: <br />
 &nbsp Dependecy Injection without Spring <br />
 &nbsp getBean using @Config <br />
-&nbsp using JPA -> Domain Model <br />
+&nbsp using JPA -> Domain Model Pattern <br />
 &nbsp REST API using Spring JPA <br />
