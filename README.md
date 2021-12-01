@@ -7,7 +7,7 @@ Other branches represents different Framework <br/>
 <br />
 dJango: practiced DRF(django RestFramework) and ORM <br />
 Spring: <br />
-&nbsp Dependecy Injection without Spring <br />
-&nbsp getBean using @Config <br />
-&nbsp using JPA -> Domain Model Pattern <br />
-&nbsp REST API using Spring JPA <br />
+&nbsp 1. Dependecy Injection without Spring <br />
+&nbsp 2. getBean using @Config <br />
+&nbsp 3. using JPA -> Domain Model Pattern <br />
+&nbsp 4. REST API using Spring JPA <br />
